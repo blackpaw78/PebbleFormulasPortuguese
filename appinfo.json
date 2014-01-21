@@ -1,0 +1,25 @@
+{
+    "versionLabel": "1.1.7",
+    "uuid": "663627ab-0ba3-442f-8cb7-2e7df6107dd7",
+    "appKeys": {},
+    "longName": "PebbleFormulasPortuguese",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "PebbleFormulasPort",
+    "companyName": "Blackpaw78",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_PEBBLE_ICON",
+                "file": "images/pebbleformula.png"
+            }
+        ]
+    }
+}
